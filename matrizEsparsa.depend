@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1543252739 source:c:\users\u16712\desktop\matrizesparsa\main.cpp
+	<iostream>
+	"MinhaInformacao.h"
+	"MatrizEsparsa.h"
+
+1543252533 source:c:\users\u16712\desktop\matrizesparsa\src\arvoreavl.cpp
+	"ArvoreAVL.h"
+	"No.h"
+	"Informacao.h"
+	<iostream>
+	<cstring>
+
+1543252073 c:\users\u16712\desktop\matrizesparsa\include\arvoreavl.h
+	"No.h"
+	"Informacao.h"
+	<iostream>
+
+1543252453 c:\users\u16712\desktop\matrizesparsa\include\no.h
+	"Informacao.h"
+	<iostream>
+
+1543252500 c:\users\u16712\desktop\matrizesparsa\include\informacao.h
+	<string>
+
+1543252558 source:c:\users\u16712\desktop\matrizesparsa\src\coluna.cpp
+	"Coluna.h"
+	<sstream>
+	<string>
+
+1543252165 c:\users\u16712\desktop\matrizesparsa\include\coluna.h
+	"Informacao.h"
+	<string>
+
+1543252575 source:c:\users\u16712\desktop\matrizesparsa\src\informacao.cpp
+	"Informacao.h"
+
+1543252662 source:c:\users\u16712\desktop\matrizesparsa\src\linha.cpp
+	"Linha.h"
+	"Coluna.h"
+	<sstream>
+
+1543252393 c:\users\u16712\desktop\matrizesparsa\include\linha.h
+	"ArvoreAVL.h"
+	"Informacao.h"
+	"Coluna.h"
+	<string>
+
+1543252615 source:c:\users\u16712\desktop\matrizesparsa\src\matrizesparsa.cpp
+	"MatrizEsparsa.h"
+	"Linha.h"
+
+1543252339 c:\users\u16712\desktop\matrizesparsa\include\matrizesparsa.h
+	"ArvoreAVL.h"
+	"Informacao.h"
+
+1543252628 source:c:\users\u16712\desktop\matrizesparsa\src\minhainformacao.cpp
+	"MinhaInformacao.h"
+	<informacao.h>
+	<sstream>
+	<string>
+
+1543252693 c:\users\u16712\desktop\matrizesparsa\include\minhainformacao.h
+	"informacao.h"
+	<string>
+
+1543252642 source:c:\users\u16712\desktop\matrizesparsa\src\no.cpp
+	"No.h"
+	"Informacao.h"
+	<sstream>
+
+1543405638 source:e:\projetos\matrizesparsa\main.cpp
+	<iostream>
+	<stdexcept>
+	"MinhaInformacao.h"
+	"MatrizEsparsa.h"
+
+1543405222 e:\projetos\matrizesparsa\include\minhainformacao.h
+	"informacao.h"
+	<string>
+
+1543252502 e:\projetos\matrizesparsa\include\informacao.h
+	<string>
+
+1543405158 e:\projetos\matrizesparsa\include\matrizesparsa.h
+	"ArvoreAVL.h"
+	"Informacao.h"
+
+1543405652 e:\projetos\matrizesparsa\include\arvoreavl.h
+	"No.h"
+	"Informacao.h"
+	<iostream>
+
+1543252454 e:\projetos\matrizesparsa\include\no.h
+	"Informacao.h"
+	<iostream>
+
+1543405942 source:e:\projetos\matrizesparsa\src\coluna.cpp
+	"Coluna.h"
+	<sstream>
+	<string>
+	<stdexcept>
+
+1543405298 e:\projetos\matrizesparsa\include\coluna.h
+	"Informacao.h"
+	<string>
+	<iostream>
+	<stdexcept>
+
+1543252576 source:e:\projetos\matrizesparsa\src\informacao.cpp
+	"Informacao.h"
+
+1543405848 source:e:\projetos\matrizesparsa\src\linha.cpp
+	"Linha.h"
+	"Coluna.h"
+	<sstream>
+	<stdexcept>
+
+1543405796 e:\projetos\matrizesparsa\include\linha.h
+	"ArvoreAVL.h"
+	"Informacao.h"
+	"Coluna.h"
+	<string>
+
+1543405834 source:e:\projetos\matrizesparsa\src\minhainformacao.cpp
+	"MinhaInformacao.h"
+	<informacao.h>
+	<sstream>
+	<string>
+	<iostream>
+	<stdexcept>
+
+1543405212 source:e:\projetos\matrizesparsa\src\no.cpp
+	"No.h"
+	"Informacao.h"
+	<sstream>
+
+1543405674 source:e:\projetos\matrizesparsa\src\arvoreavl.cpp
+	"ArvoreAVL.h"
+	"No.h"
+	"Informacao.h"
+	<iostream>
+	<stdexcept>
+	<cstring>
+
+1543405568 source:e:\projetos\matrizesparsa\src\matrizesparsa.cpp
+	"MatrizEsparsa.h"
+	"Linha.h"
+	<iostream>
+	<stdexcept>
+
